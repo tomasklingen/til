@@ -1,4 +1,5 @@
 ---
+date: 2025-07-13
 tags: [git, submodules, cheatsheet, version-control]
 ---
 

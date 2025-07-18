@@ -1,4 +1,5 @@
 ---
+date: 2025-04-22
 tags: [github, cli, git, tools]
 ---
 

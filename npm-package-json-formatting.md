@@ -1,3 +1,7 @@
+---
+tags: [npm, package-json, formatting, node]
+---
+
 # NPM package-lock.json formatting follows package.json
 
 TIL:

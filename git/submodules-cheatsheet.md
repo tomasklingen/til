@@ -1,3 +1,7 @@
+---
+tags: [git, submodules, cheatsheet, version-control]
+---
+
 # Git Submodules Cheatsheet
 
 Git submodules let you include one Git repository inside another as a subdirectory.

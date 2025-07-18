@@ -1,3 +1,7 @@
+---
+tags: [github, cli, git, tools]
+---
+
 # Create remote repos with GitHub CLI
 
 From the local repo, create a public repo on GitHub.

@@ -1,9 +1,8 @@
 ---
+title: Frontmatter Basics
 date: 2025-07-18
 tags: [markdown, frontmatter, blogging, yaml]
 ---
-
-# Frontmatter Basics
 
 Frontmatter is YAML metadata at the top of markdown files. It's wrapped in triple dashes and lets you add structured data to your content.
 
@@ -25,10 +24,12 @@ draft: false
 ## This file's frontmatter:
 ```yaml
 ---
+title: Frontmatter Basics
+date: 2025-07-18
 tags: [markdown, frontmatter, blogging, yaml]
 ---
 ```
 
 Yep, using frontmatter to explain frontmatter.
 
-Modern frameworks support it natively: Astro has built-in frontmatter with type-safe content collections, Next.js uses it with MDX (via `next-mdx-remote`), and Remix handles it for content routing. The `gray-matter` library handles parsing in Node.js. Simple concept, very useful for content management.
+Modern frameworks support it natively: Astro has built-in frontmatter with type-safe content collections, while Next.js and React Router require third-party libraries like `next-mdx-remote` or `react-router-mdx` for frontmatter support. The `gray-matter` library handles parsing in Node.js. Simple concept, very useful for content management.

@@ -1,9 +1,8 @@
 ---
+title: NPM package-lock.json formatting follows package.json
 date: 2025-07-17
 tags: [npm, package-json, formatting, node]
 ---
-
-# NPM package-lock.json formatting follows package.json
 
 TIL:
 > When npm creates or updates `package-lock.json`, it will infer line endings and indentation from `package.json` so that the formatting of both files matches.

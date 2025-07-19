@@ -1,9 +1,8 @@
 ---
+title: Create remote repos with GitHub CLI
 date: 2025-04-22
 tags: [github, cli, git, tools]
 ---
-
-# Create remote repos with GitHub CLI
 
 From the local repo, create a public repo on GitHub.
 
